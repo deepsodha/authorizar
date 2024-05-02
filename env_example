@@ -1,0 +1,7 @@
+RUST_LOG=debug
+DB_FILE=sqlite.db
+APP_ENVIRONMENT=development
+RUST_BACKTRACE=full
+Entities_Api=/api/entities
+Policies_Api=/api/policies
+Authorize_Api=/api/authorize

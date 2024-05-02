@@ -1,0 +1,23 @@
+{
+  "uid": {
+    "type": "User",
+    "id": "dipen"
+  },
+  "attrs": {
+    "firstname": "Deep",
+    "lastname": "Sodha",
+    "currency": "USD",
+    "age": 30,
+    "managers": ["john", "mike"]
+  },
+  "parents": [
+    {
+      "type": "ProductRole",
+      "id": "role1"
+    },
+    {
+      "type": "ProductRole",
+      "id": "role1"
+    }
+  ]
+}
